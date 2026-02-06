@@ -1,28 +1,13 @@
 ---
 layout: default
-title: Home
+title: Bridging Telehealth
+permalink: /
 ---
-
 # Bridging Telehealth
 
-**Expanding access to care through digital health.**
+Accessible, community-centered telehealth research and outreach.
 
-Bridging Telehealth is a project focused on improving equitable access to healthcare through virtual care models, digital infrastructure, and community-centered solutions.
-
----
-
-## Our Mission
-
-To reduce barriers to healthcare access by leveraging telehealth technologies that are inclusive, ethical, and responsive to underserved populations.
-
----
-
-## Why Telehealth?
-
-- Increases access for rural and remote communities  
-- Reduces wait times and system strain  
-- Improves continuity of care  
-- Supports equity-focused health delivery  
+This site is under active development.
 
 ---
 
