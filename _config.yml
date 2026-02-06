@@ -22,10 +22,7 @@ title: Bridging Access Telehealth Project
 email: fatima@glocalfoundation.ca
 description: My name is Fatima, and I’m working on a project titled “Enhancing Telehealth Access and Digital Literacy for Immigrant, Migrant, and Refugee (IMR) Communities in British Columbia.”
 Telehealth has become a critical component of healthcare delivery in Canada, particularly during and after the COVID-19 pandemic. However, many IMR communities continue to face barriers to accessing telehealth services due to language, digital literacy, and socioeconomic factors. 
-This project aims to:
-•	Assess telehealth usage and satisfaction among IMR populations in BC
-•	Identify barriers to access, with a focus on digital literacy gaps
-•	Inform the development of clear, culturally responsive digital literacy resources to improve equitable access to care
+This project aims to assess telehealth usage and satisfaction among IMR populations in BC, identify barriers to access, with a focus on digital literacy gaps, and inform the development of clear, culturally responsive digital literacy resources to improve equitable access to care
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
