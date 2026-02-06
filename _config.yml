@@ -18,19 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Bridging Access Telehealth Project 
+email: fatima@glocalfoundation.ca
+description: My name is Fatima, and I’m working on a project titled “Enhancing Telehealth Access and Digital Literacy for Immigrant, Migrant, and Refugee (IMR) Communities in British Columbia.”
+Telehealth has become a critical component of healthcare delivery in Canada, particularly during and after the COVID-19 pandemic. However, many IMR communities continue to face barriers to accessing telehealth services due to language, digital literacy, and socioeconomic factors. 
+This project aims to:
+•	Assess telehealth usage and satisfaction among IMR populations in BC
+•	Identify barriers to access, with a focus on digital literacy gaps
+•	Inform the development of clear, culturally responsive digital literacy resources to improve equitable access to care
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
