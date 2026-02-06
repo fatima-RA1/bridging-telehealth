@@ -1,4 +1,9 @@
 ---
+---
+layout: default
+title: Home
+---
+
 layout: default
 title: Bridging Telehealth
 ---
